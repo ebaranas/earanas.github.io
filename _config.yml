@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 
 name: Erika B. Aranas
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
