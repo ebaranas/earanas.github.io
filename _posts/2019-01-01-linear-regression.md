@@ -1,12 +1,18 @@
----
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>linear regression</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
 
----
-
-<hr>
-<h2 id="layout-posttitle-erika-b.-aranas-launches-sitedate-2014-04-30">layout: post<br>
-title: “Erika B. Aranas, Launches Site”<br>
-date: 2014-04-30</h2>
+<body class="stackedit">
+  <div class="stackedit__html"><hr>
+<h2 id="layout-posttitle-linear-regressiondate-2019-01-01">layout: post<br>
+title: “Linear Regression”<br>
+date: 2019-01-01</h2>
 <p>TLDR:</p>
 <ul>
 <li>Least squares regression is the method of finding the line through a set of data that minimises the sum of squared errors.</li>
@@ -141,4 +147,7 @@ s-65,47,-65,47z M834 80H400000v40H845z"></path></svg></span></span></span><span 
 </li>
 </ol>
 </section>
+</div>
+</body>
 
+</html>
