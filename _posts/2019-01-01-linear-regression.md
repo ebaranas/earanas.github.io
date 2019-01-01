@@ -9,11 +9,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><hr>
-<h2 id="layout-posttitle-linear-regressiondate-2019-01-01">layout: post<br>
-title: “Linear Regression”<br>
-date: 2019-01-01</h2>
-<p>TLDR:</p>
+  <div class="stackedit__html"><p>TLDR:</p>
 <ul>
 <li>Least squares regression is the method of finding the line through a set of data that minimises the sum of squared errors.</li>
 <li>In linear algebra, finding the optimal parameters is the same as solving the normal equation.</li>
