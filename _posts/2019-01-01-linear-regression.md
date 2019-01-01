@@ -1,4 +1,9 @@
-<!DOCTYPE html>
+---
+layout: post
+title: "Linear Regression"
+date: 2019-01-01
+---
+
 <html>
 
 <head>
